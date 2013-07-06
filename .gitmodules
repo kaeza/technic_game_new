@@ -1,0 +1,3 @@
+[submodule "mods/calinou_mods"]
+	path = mods/calinou_mods
+	url = https://github.com/Calinou/calinou_mods.git
